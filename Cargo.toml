@@ -2,5 +2,9 @@
 name = "type_of"
 version = "0.1.0"
 authors = ["Sandeep Datta <datta.sandeep@gmail.com>"]
+readme = "README.md"
+license = "MITNFA"
+description = "Exports a set of macros which can be useful for inspecting the type of various expressions in your code at runtime."
+repository = "https://github.com/sandeep-datta/type_of.git"
 
 [dependencies]
