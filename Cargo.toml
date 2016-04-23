@@ -1,5 +1,5 @@
 [package]
-name = "typeof"
+name = "type_of"
 version = "0.1.0"
 authors = ["Sandeep Datta <datta.sandeep@gmail.com>"]
 
